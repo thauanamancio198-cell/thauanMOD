@@ -1,4 +1,3 @@
--- this file was generated using Kuri Tool https://discord.gg/FC5ZWbq2yM
 
 repeat task.wait() until game:IsLoaded()
 
